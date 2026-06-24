@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# SQLite Database
+*.db
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Build Files
+build/
+dist/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Node Modules (if you add JS later)
+node_modules/
+
+# Coverage Reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Misc
+*.bak
+*.swp
