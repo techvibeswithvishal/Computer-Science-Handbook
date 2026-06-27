@@ -225,3 +225,16 @@ Portfolio: https://techvibeswithvishal.vercel.app
 ---
 
 ⭐ If you find this repository useful, consider giving it a star.
+
+
+
+
+
+
+28
+per day - 
+5 py
+5 sql
+5 js
+5 re
+5 ren
