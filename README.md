@@ -231,10 +231,40 @@ Portfolio: https://techvibeswithvishal.vercel.app
 
 
 
-28
-per day - 
-5 py
-5 sql
-5 js
-5 re
-5 ren
+
+
+
+
+
+
+
+
+
+
+# 🚀 30-Day Coding Challenge
+
+## 📅 Day 1 — 28 June 2026
+
+| 🐍 Python | 🗄️ SQL | 🌐 JavaScript | ⚛️ React | 📱 React Native |
+| :-------: | :-----: | :-----------: | :------: | :-------------: |
+|  ✅ Ch 01  | ✅ Ch 01 |    ✅ Ch 01    |  ✅ Ch 01 |     ✅ Ch 01     |
+|  ✅ Ch 02  | ✅ Ch 02 |    ✅ Ch 02    |  ✅ Ch 02 |     ✅ Ch 02     |
+|  ✅ Ch 03  | ⬜ Ch 03 |    ✅ Ch 03    |  ✅ Ch 03 |     ✅ Ch 03     |
+|  ✅ Ch 04  | ⬜ Ch 04 |    ✅ Ch 04    |  ✅ Ch 04 |     ✅ Ch 04     |
+|  ✅ Ch 05  | ⬜ Ch 05 |    ✅ Ch 05    |  ✅ Ch 05 |     ✅ Ch 05     |
+
+**Daily Progress:** `0 / 25 Chapters`
+
+---
+
+## 📅 Day 2 — 29 June 2026
+
+| 🐍 Python | 🗄️ SQL | 🌐 JavaScript | ⚛️ React | 📱 React Native |
+| :-------: | :-----: | :-----------: | :------: | :-------------: |
+|  ✅ Ch 06  | ⬜ Ch 06 |    ⬜ Ch 06    |  ⬜ Ch 06 |     ⬜ Ch 06     |
+|  ✅ Ch 07  | ⬜ Ch 07 |    ⬜ Ch 07    |  ⬜ Ch 07 |     ⬜ Ch 07     |
+|  ✅ Ch 08  | ⬜ Ch 08 |    ⬜ Ch 08    |  ⬜ Ch 08 |     ⬜ Ch 08     |
+|  ✅ Ch 09  | ⬜ Ch 09 |    ⬜ Ch 09    |  ⬜ Ch 09 |     ⬜ Ch 09     |
+|  ✅ Ch 10  | ⬜ Ch 10 |    ⬜ Ch 10    |  ⬜ Ch 10 |     ⬜ Ch 10     |
+
+**Daily Progress:** `0 / 25 Chapters`
